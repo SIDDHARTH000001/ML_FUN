@@ -1,7 +1,10 @@
 # Project: Particle Swarm with Hand Tracking
+# PSO.py
 
 ## Description
 This project combines computer vision and particle swarm optimization (PSO) to create an interactive visual experience. Using MediaPipe for hand tracking and OpenCV for visualization, the system detects a user's hands through a webcam and generates particle effects that are naturally attracted to hand positions.
+
+![Hand Tracking PSO Demo](source/recording.gif)
 
 ### Key Features
 - Real-time hand tracking with MediaPipe's hand landmark detection
@@ -15,6 +18,7 @@ This project combines computer vision and particle swarm optimization (PSO) to c
 - OpenCV for rendering the visual elements and compositing onto the webcam feed
 
 # Project: Air Flow Dynamics Simulator
+# game.py
 
 ## Description
 This interactive simulator visualizes air particle flow dynamics around user-created objects. Using a webcam to detect shapes formed by the user's hands or objects, the system demonstrates how air particles behave when encountering different geometric shapes, creating an intuitive and educational demonstration of basic fluid dynamics.
