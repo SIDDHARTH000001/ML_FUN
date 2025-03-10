@@ -4,7 +4,7 @@
 ## Description
 This project combines computer vision and particle swarm optimization (PSO) to create an interactive visual experience. Using MediaPipe for hand tracking and OpenCV for visualization, the system detects a user's hands through a webcam and generates particle effects that are naturally attracted to hand positions.
 
-![Hand Tracking PSO Demo](source/recording.gif)
+![Hand Tracking PSO Demo](source/demo_PSO.gif)
 
 ### Key Features
 - Real-time hand tracking with MediaPipe's hand landmark detection
