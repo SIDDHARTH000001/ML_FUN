@@ -20,6 +20,8 @@ This project combines computer vision and particle swarm optimization (PSO) to c
 # Project: Air Flow Dynamics Simulator
 # game.py
 
+![Hand Tracking PSO Demo](Source/Game_Air_Flow_Dynamics_Simulator.gif)
+
 ## Description
 This interactive simulator visualizes air particle flow dynamics around user-created objects. Using a webcam to detect shapes formed by the user's hands or objects, the system demonstrates how air particles behave when encountering different geometric shapes, creating an intuitive and educational demonstration of basic fluid dynamics.
 
