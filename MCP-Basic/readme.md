@@ -7,4 +7,4 @@ This project contains three basic Model Context Protocol (MCP) server implementa
 
 ☁️ weather_server: Returns mock weather data.
 
-These are lightweight examples built for local experimentation with MCP tool interfaces.
+These are lightweight examples built for local experimentation with MCP tool interfaces. 
