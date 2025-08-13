@@ -65,4 +65,3 @@ Example JSONL:
 
 ---
 
-Do you want me to also **add a short diagram** showing the **chosen vs rejected flow with reference model** so it looks more professional on GitHub? That would make this README more visually clear.
