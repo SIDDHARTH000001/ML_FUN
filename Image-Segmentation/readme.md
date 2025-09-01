@@ -2,17 +2,17 @@
 
 # 🧠 MRI Tumor Segmentation with U-Net
 
+# 📌 Overview
+
+This project demonstrates **tumor segmentation on MRI scans** using a **U-Net architecture** implemented in PyTorch inside a **single Jupyter Notebook**.
+The task is to predict binary masks that highlight tumor regions from MRI images.
+---
 <p align="center">
   <img src="mri_predictions_2.png" alt="Sample Results" width="700"/>
 </p>
 <p align="center">
   <img src="mri_predictions_1.png" alt="Sample Results" width="700"/>
 </p>
-## 📌 Overview
-
-This project demonstrates **tumor segmentation on MRI scans** using a **U-Net architecture** implemented in PyTorch inside a **single Jupyter Notebook**.
-The task is to predict binary masks that highlight tumor regions from MRI images.
-
 ---
 
 ## ⚡ Highlights
