@@ -32,11 +32,6 @@ The task is to predict binary masks that highlight tumor regions from MRI images
 
 ## 📊 Results
 
-Example visualization (MRI → Ground Truth → Prediction):
-
-<p align="center">
-  <img src="results.png" alt="Segmentation Results" width="700"/>
-</p>
 
 | Metric | Score  |
 | ------ | ------ |
